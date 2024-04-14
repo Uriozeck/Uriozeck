@@ -10,9 +10,9 @@ const uriozeck = {
 }
 ```
  ### Contacto
-  - **[Correo](mailto:brayan.uriel.ramirez@gmail.com)**
-  - **[LinkedIn](https://www.linkedin.com/in/brayan-uriel-ramirez-guerrero/)**
-  - **[Instagram](https://www.instagram.com/urielozeck/)**
+  - 📧 **[Correo](mailto:brayan.uriel.ramirez@gmail.com)**
+  - 📃 **[LinkedIn](https://www.linkedin.com/in/brayan-uriel-ramirez-guerrero/)**
+  - 📱 **[Instagram](https://www.instagram.com/urielozeck/)**
 <!--
 **Uriozeck/Uriozeck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
