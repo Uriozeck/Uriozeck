@@ -4,9 +4,9 @@
 
  ```js
 const uriozeck = {
-  Habilidades: [HTML, CSS, JS, BD, SASS, Node, Git],
-  Herramientas: [Wordpress, Oxygen Builder, Elementor, GULP],
-  Hobbies: [Bailar, Videojuegos, Salir a caminar]
+  Habilidades: ['HTML', 'CSS', 'JS', 'BD', 'SASS', 'Git'],
+  Herramientas: ['Wordpress', 'Oxygen Builder', 'Elementor', 'GULP'],
+  Hobbies: ['Bailar', 'Videojuegos', 'Salir a caminar'],
 }
 ```
  ### Contacto
